@@ -21,7 +21,7 @@
    ### Anything
 
 ## 📫 How to reach me: ...
-   ### Mail me : <a href="mailto:mukundravisankaran2001@gmail.com">mukundravisankaran2001@gmail.com</a>
+   ### Mail me : <a href="mailto:mukundravisankaran2001@gmail.com" target='_blank'>mukundravisankaran2001@gmail.com</a>
 
 ## 😄 Pronouns: ...
    ### 👦 He/him 👨‍💻
