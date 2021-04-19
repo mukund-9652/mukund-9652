@@ -24,6 +24,7 @@
    ### Mail me : <a href="mailto:mukundravisankaran2001@gmail.com">mukundravisankaran2001@gmail.com</a>
 
 ## 😄 Pronouns: ...
-   ### He/him
+   ### 👦 He/him 👨‍💻
+
 ## ⚡ Fun fact: ...
-   ### I love pizza
+   ### I love 🍕 🍔 🎮
