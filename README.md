@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 ## 
 ## 🔭 I’m currently working on ...
    ### Front end web development for Softrate as intern
