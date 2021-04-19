@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" height=20>
 
 ## <img src="https://cdn-0.emojis.wiki/emoji-pics/google/nerd-face-google.png" width="20" height="20"> Tech I know ...
-   ### <img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" width="100" height="50">  <img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" width="50" height="50">
+   ### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">  <img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" width="50" height="50">
 
 ## 🔭 I’m currently working on ...
    ### Front end web development for Softrate as intern
