@@ -4,21 +4,23 @@
 
 
 ## <img src="https://cdn-0.emojis.wiki/emoji-pics/google/nerd-face-google.png" width="20" height="20"> Tech I know ...
-   ### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50" height="50">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,mysql,html,css,bootstrap,angular,django,java,python,spring,hibernate)]()
 
 ## 🔭 I’m currently working as ...
-   ### GenC Intern at Cognizant
+   ### Java Full Stack Developer Intern at Cognizant
    
    
 ## 🌱 I’m currently learning ...
-   ### <img src="https://user-images.githubusercontent.com/61533356/115218330-13eb1480-a124-11eb-8cc3-a054134740a3.png" width="50" height="50">  <img src="https://raw.githubusercontent.com/rexxars/react-hexagon/HEAD/logo/react-hexagon.png" width="50" height="50">  <img src="https://doc.octoperf.com/monitoring/create-connection/mongodb/img/mongodb-logo.png" width="80" height="50">
+   ### [![My Skills](https://skillicons.dev/icons?i=flask,react,mongodb,aws,gcp,nodejs,django,spring,hibernate)]()
+
    
 
 ## 👯 I’m looking to collaborate on ...
-   ### Front end development
+   ### Java Full Stack development
 
 ## 🤔 I’m looking for help with ...
-   ### <img src="https://user-images.githubusercontent.com/61533356/115218330-13eb1480-a124-11eb-8cc3-a054134740a3.png" width="50" height="50">
+   ### [![My Skills](https://skillicons.dev/icons?i=flask,react,mongodb,aws,gcp)]()
 
 ## 💬 Ask me about ...
    ### Anything
